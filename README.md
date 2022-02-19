@@ -33,5 +33,5 @@ web service is hosted on AWS, using api gateway and lambda
 
 ## test
 ```bash
-  yarn deploy:dev
+  yarn test
 ```
