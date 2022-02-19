@@ -35,3 +35,7 @@ web service is hosted on AWS, using api gateway and lambda
 ```bash
   yarn test
 ```
+
+## CI
+using github action to implement CI.
+.github/workflows/ci.yml
